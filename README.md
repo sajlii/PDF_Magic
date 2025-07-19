@@ -29,7 +29,7 @@ Whether you're researching, studying, or generating content — PDFMagic makes i
 
 | Layer      | Tools Used                    |
 |------------|-------------------------------|
-| Frontend   | React, Tailwind CSS           |
+| Frontend   | React,CSS           |
 | Backend    | Flask (Python)                |
 | AI Model   | Google Gemini / OpenAI GPT / LLMs |
 | PDF Tools  | FPDF, PyMuPDF (fitz)          |
